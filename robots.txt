@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eereboowa.jalyna.io/sitemap.xml
